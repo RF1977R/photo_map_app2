@@ -1,0 +1,5 @@
+streamlit
+gpxpy
+streamlit-folium
+exifread
+Pillow
